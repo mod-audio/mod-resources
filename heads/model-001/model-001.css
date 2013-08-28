@@ -189,9 +189,14 @@
 
 /* THE LIST OF OPTIONS */
 .mod-head-model-001 .mod-enumerated .mod-enumerated-list {
+    background: rgba(255,255,255,.85);
     display: none;
     font-weight: bold;
+    height: 69px;
+    overflow: auto;
+    position: relative;
     width: 242px;
+    z-index: 3;
 }
 
 .mod-head-model-001 .mod-enumerated .mod-enumerated-list > div {
@@ -201,16 +206,6 @@
 .mod-head-model-001 .mod-enumerated .mod-enumerated-list > div:hover {
     background: rgba(0,0,0,.35);
     cursor: pointer;
-}
-
-/* WHEN THE LIST IS SHOWING */
-.mod-head-model-001 .mod-enumerated:hover .mod-enumerated-list {
-    background: rgba(255,255,255,.85);
-    display: block;
-    height: 69px;
-    overflow: auto;
-    position: relative;
-    z-index: 3;
 }
 
 /* SEPARATOR */
