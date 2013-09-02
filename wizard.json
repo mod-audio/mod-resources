@@ -24,6 +24,12 @@
         },
         "colors": [ "blue", "brown", "cream", "darkblue", "gray", "green", "orange", "purple", "red", "white", "yellow" ]
     },
+    
+    "boxy-small": {
+        "panels": { "1-footswitch": 1 },
+        "colors": [ "blue", "brown", "cream", "darkblue", "gray", "green", "orange", "purple", "red", "white", "yellow" ]
+    },
+    
     "japanese": {
         "panels": {
             "4-knobs": 4,

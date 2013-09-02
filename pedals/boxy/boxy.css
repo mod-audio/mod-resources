@@ -15,6 +15,12 @@
     width:230px;
 }
 
+.mod-pedal-boxy.mod-boxy50 {
+    background-size:301px 315px;
+    height:315px;
+    width:301px;
+}
+
 .mod-pedal-boxy.mod-boxy75 {
     background-size:326px 431px;
     width:326px;
@@ -66,6 +72,42 @@
 .mod-pedal-boxy.mod-yellow {
     background-image:url(yellow.png);
 }
+
+/* SMALL */
+.mod-pedal-boxy.mod-boxy50.mod-blue {
+    background-image:url(../boxy-small/blue.png);
+}
+.mod-pedal-boxy.mod-boxy50.mod-brown {
+    background-image:url(../boxy-small/brown.png);
+}
+.mod-pedal-boxy.mod-boxy50.mod-cream {
+    background-image:url(../boxy-small/cream.png);
+}
+.mod-pedal-boxy.mod-boxy50.mod-darkblue {
+    background-image:url(../boxy-small/darkblue.png);
+}
+.mod-pedal-boxy.mod-boxy50.mod-gray {
+    background-image:url(../boxy-small/gray.png);
+}
+.mod-pedal-boxy.mod-boxy50.mod-green {
+    background-image:url(../boxy-small/green.png);
+}
+.mod-pedal-boxy.mod-boxy50.mod-orange {
+    background-image:url(../boxy-small/orange.png);
+}
+.mod-pedal-boxy.mod-boxy50.mod-purple {
+    background-image:url(../boxy-small/purple.png);
+}
+.mod-pedal-boxy.mod-boxy50.mod-red {
+    background-image:url(../boxy-small/red.png);
+}
+.mod-pedal-boxy.mod-boxy50.mod-white {
+    background-image:url(../boxy-small/white.png);
+}
+.mod-pedal-boxy.mod-boxy50.yellow {
+    background-image:url(../boxy-small/yellow.png);
+}
+
 
 /* LARGE */
 .mod-pedal-boxy.mod-boxy75.mod-blue {
@@ -142,6 +184,10 @@
     top:190px;
 }
 
+.mod-pedal-boxy.mod-boxy50 .mod-plugin-author {
+  top:16px;
+}
+
 
 /* = PLUGIN'S NAME
 ================================================ */
@@ -165,6 +211,10 @@
 .mod-pedal-boxy.mod-seven-knobs .mod-plugin-name,
 .mod-pedal-boxy.mod-eight-knobs .mod-plugin-name {
     top:350px;
+}
+
+.mod-pedal-boxy.mod-boxy50 .mod-plugin-name {
+  top:230px;
 }
 
 
@@ -248,6 +298,10 @@
     top:253px;
 }
 
+.mod-pedal-boxy.mod-boxy50 .mod-light {
+  top:105px;
+}
+
 
 /* = FOOTSWITCH
 ================================================ */
@@ -269,6 +323,10 @@
 .mod-pedal-boxy.mod-seven-knobs .mod-footswitch,
 .mod-pedal-boxy.mod-eight-knobs .mod-footswitch { 
     top:285px;
+}
+
+.mod-pedal-boxy.mod-boxy50 .mod-footswitch {
+  top:140px;
 }
 
 
