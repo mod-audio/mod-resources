@@ -502,6 +502,19 @@ body > .mod-settings {
     width:126px;
 }
 
+.mod-pedal-settings .mod-switch .mod-footswitch-image {
+    background-image:url(../switches/footswitch.png);
+    background-position:left center;
+    background-repeat:no-repeat;
+    background-size:auto 63px;
+    height:63px;
+    left:47px;
+    position:absolute;
+    overflow:hidden;
+    top:55px;
+    width:126px;
+}
+
 /* This makes the switch works either with film of switch widget */
 .mod-pedal-settings .mod-switch .mod-switch-image.on {
     background-position:right center;
