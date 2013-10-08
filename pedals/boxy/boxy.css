@@ -501,7 +501,7 @@
     
 }
 
-.mod-pedal-boxy .mod-enumerated:hover .mod-enumerated-selected {
+.mod-pedal-boxy .mod-enumerated .mod-enumerated-selected {
     border-radius:4px 4px 0 0;
 }
 
@@ -510,9 +510,9 @@
     color:#fff;
 }
 
-.mod-pedal-boxy .mod-enumerated:hover .mod-enumerated-list {
+.mod-pedal-boxy .mod-enumerated .mod-enumerated-list {
     background-color:rgba(0,0,0,.9);
-    display:block;
+    display:none;
     height:115px;
     overflow:auto;
     position:relative;
