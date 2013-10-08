@@ -190,9 +190,9 @@
 }
 
 /* WHEN THE LIST IS SHOWING */
-.mod-combo-model-001 .mod-enumerated:hover .mod-enumerated-list {
+.mod-combo-model-001 .mod-enumerated .mod-enumerated-list {
     background:rgba(0,0,0,.9);
-    display:block;
+    display:none;
     height:85px;
     overflow:auto;
     position:relative;
