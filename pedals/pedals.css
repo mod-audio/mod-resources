@@ -274,6 +274,10 @@ body > .mod-settings {
     padding:0 18px;
 }
 
+.mod-presets {
+    padding: 0 18px;
+}
+
 /* = KNOB
 ================================================ */
 .mod-pedal-settings .mod-knob {
