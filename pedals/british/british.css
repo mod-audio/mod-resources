@@ -10,6 +10,9 @@
     height:520px;
     position:absolute;
     width:279px;
+    border-radius: 18px;
+    border-bottom-right-radius: 90px;
+    border-bottom-left-radius: 90px;
 }
 
 /* = BACKGROUND IMAGES - Colour of the pedal
