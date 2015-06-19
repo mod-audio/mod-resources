@@ -3,7 +3,7 @@
     border-radius: 20px;
 }
 .mod-combo-model-001-0550 {
-    background-image: url(model-0550.png);
+    background-image: url(/resources/combos/model-001/model-0550.png);
     background-position: center center;
     background-repeat: no-repeat;
     height: 200px;
@@ -12,7 +12,7 @@
 }
 
 .mod-combo-model-001-0625 {
-    background-image: url(model-0625.png);
+    background-image: url(/resources/combos/model-001/model-0625.png);
     background-position: center center;
     background-repeat: no-repeat;
     height: 200px;
@@ -21,7 +21,7 @@
 }
 
 .mod-combo-model-001-0778 {
-    background-image: url(model-0778.png);
+    background-image: url(/resources/combos/model-001/model-0778.png);
     background-position: center center;
     background-repeat: no-repeat;
     height: 200px;
@@ -30,7 +30,7 @@
 }
 
 .mod-combo-model-001-0930 {
-    background-image: url(model-0930.png);
+    background-image: url(/resources/combos/model-001/model-0930.png);
     background-position: center center;
     background-repeat: no-repeat;
     height: 200px;
@@ -82,7 +82,6 @@
 .mod-combo-model-001 .mod-control-group > div {
     margin-right: 2px;
 }
-
 
 .mod-combo-model-001 .mod-pedal-input,
 .mod-combo-model-001 .mod-pedal-output {
@@ -164,7 +163,7 @@
 
 .mod-combo-model-001 .mod-enumerated .mod-enumerated-selected {
     background-color:rgba(0,0,0,.8);
-    background-image:url(../../utils/dropdown-arrow-white.png);
+    background-image:url(/resources/utils/dropdown-arrow-white.png);
     background-position:right center;
     background-repeat:no-repeat;
     border-radius:4px;
